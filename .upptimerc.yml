@@ -48,3 +48,6 @@ status-website:
 
 i18n:
   footer: © 2018-2024 Usolia Network. All rights reserved.
+
+status-website:
+  theme: light
