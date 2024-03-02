@@ -21,7 +21,8 @@ sites:
   - name: "社区论坛"
     slug: "forum"
     url: https://usolia.net
-  - name: Wiki
+  - name: "服务器 Wiki"
+    slug: "Wiki"
     url: https://wiki.usolia.net
   - name: "卫星地图"
     slug: "satellite"
