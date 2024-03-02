@@ -4,30 +4,27 @@ repo: status # The name of this repository
 
 sites:
   - name: game-server-main
-    slug: 游戏服务器[main]
+    slug: "Game Server [main]"
     url: mc.usolia.net
     port: 25565
     check: "tcp-ping"
-    ipv6: false
   - name: game-server-de-ber01
-    slug: 游戏服务器[de-ber01]
+    slug: "Game Server [de-centre-1]"
     url: acc-de-ber01.infra.usolia.dev
     port: 25565
     check: "tcp-ping"
-    ipv6: false
   - name: game-server-ru-mow01
-    slug: 游戏服务器[ru-mow01]
+    slug: "Game Server [ru-mow-1]"
     url: acc-ru-mow01.infra.usolia.dev
     port: 25565
     check: "tcp-ping"
-    ipv6: false
   - name: forum
-    slug: 社区论坛
+    slug: "Community Forum"
     url: https://usolia.net
   - name: Wiki
     url: https://wiki.usolia.net
   - name: satellite
-    slug: 卫星地图
+    slug: "Satellite"
     url: https://satellite.usolia.net
 
 
@@ -36,16 +33,18 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.usolia.net
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://assets.usolia.net/status.usolia.net/assets/logo-status.png
   name: Status
   introTitle: "**Usolia 设施状态**"
   introMessage: "在这里查看各项服务的在线状态，以及即将进行的维护。"
   navbar:
-    - title: status
-      slug: 状态
+    - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: © 2018-2024 Usolia Network. All rights reserved.
