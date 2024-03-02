@@ -36,8 +36,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://assets.usolia.net/status.usolia.net/assets/logo-status.png
   favicon: https://assets.usolia.net/status.usolia.net/assets/logo-status.png
-  name: Status
-  introTitle: "**Usolia 设施状态**"
+  name: Usolia Network 服务状态
+  introTitle: "**Usolia Network 服务状态**"
   introMessage: "在这里查看各项服务的在线状态，以及即将进行的维护。"
   navbar:
     - title: Status
@@ -58,4 +58,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  uptime: "*/10 * * * *"
