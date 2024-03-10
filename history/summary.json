@@ -4,54 +4,60 @@
     "url": "mc.usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-de-fsn02",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 113,
     "timeDay": 105,
     "timeWeek": 106,
     "timeMonth": 113,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 1
+    }
   },
   {
     "name": "游戏服务器 [de-centre-1]",
     "url": "acc-de-ber01.infra.usolia.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-de-ber01",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 115,
     "timeDay": 106,
     "timeWeek": 108,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 1
+    }
   },
   {
     "name": "游戏服务器 [ru-mow-1]",
     "url": "acc-ru-mow01.infra.usolia.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-ru-mow01",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 139,
     "timeDay": 132,
     "timeWeek": 132,
     "timeMonth": 139,
     "timeYear": 139,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 1
+    }
   },
   {
     "name": "社区论坛",
