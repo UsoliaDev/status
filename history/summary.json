@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-de-fsn02",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 113,
-    "timeDay": 105,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 111,
+    "timeDay": 99,
     "timeWeek": 106,
-    "timeMonth": 113,
-    "timeYear": 113,
-    "dailyMinutesDown": {
-      "2024-03-10": 13
-    }
+    "timeMonth": 111,
+    "timeYear": 111,
+    "dailyMinutesDown": {}
   },
   {
     "name": "游戏服务器 [de-centre-1]",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-de-ber01",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 115,
-    "timeDay": 107,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 113,
+    "timeDay": 102,
     "timeWeek": 108,
-    "timeMonth": 115,
-    "timeYear": 115,
-    "dailyMinutesDown": {
-      "2024-03-10": 13
-    }
+    "timeMonth": 113,
+    "timeYear": 113,
+    "dailyMinutesDown": {}
   },
   {
     "name": "游戏服务器 [ru-mow-1]",
@@ -45,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-ru-mow01",
     "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 139,
-    "timeDay": 132,
-    "timeWeek": 132,
-    "timeMonth": 139,
-    "timeYear": 139,
-    "dailyMinutesDown": {
-      "2024-03-10": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 137,
+    "timeDay": 127,
+    "timeWeek": 133,
+    "timeMonth": 137,
+    "timeYear": 137,
+    "dailyMinutesDown": {}
   },
   {
     "name": "社区论坛",
@@ -70,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 728,
-    "timeWeek": 857,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "time": 894,
+    "timeDay": 754,
+    "timeWeek": 864,
+    "timeMonth": 894,
+    "timeYear": 894,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1776,
-    "timeDay": 1677,
-    "timeWeek": 1709,
-    "timeMonth": 1776,
-    "timeYear": 1776,
+    "time": 1756,
+    "timeDay": 1576,
+    "timeWeek": 1739,
+    "timeMonth": 1756,
+    "timeYear": 1756,
     "dailyMinutesDown": {}
   },
   {
@@ -106,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 505,
-    "timeWeek": 474,
-    "timeMonth": 497,
-    "timeYear": 497,
+    "time": 495,
+    "timeDay": 473,
+    "timeWeek": 478,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   }
 ]
