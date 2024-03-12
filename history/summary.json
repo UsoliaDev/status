@@ -58,19 +58,19 @@
     "url": "https://usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/usolia.net.ico",
     "slug": "forum",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 894,
-    "timeDay": 0,
-    "timeWeek": 889,
-    "timeMonth": 894,
-    "timeYear": 894,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 884,
+    "timeDay": 760,
+    "timeWeek": 871,
+    "timeMonth": 884,
+    "timeYear": 884,
     "dailyMinutesDown": {
-      "2024-03-12": 2
+      "2024-03-12": 14
     }
   },
   {
