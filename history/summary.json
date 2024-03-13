@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 186,
+    "timeDay": 188,
     "timeWeek": 150,
     "timeMonth": 143,
     "timeYear": 143,
@@ -76,9 +76,9 @@
     "url": "https://wiki.usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.usolia.net.ico",
     "slug": "Wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1836,
     "timeMonth": 1793,
     "timeYear": 1793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-13": 0
+    }
   },
   {
     "name": "卫星地图",
