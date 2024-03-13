@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
-    "timeDay": 905,
+    "timeDay": 1273,
     "timeWeek": 913,
     "timeMonth": 896,
     "timeYear": 896,
@@ -76,19 +76,19 @@
     "url": "https://wiki.usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.usolia.net.ico",
     "slug": "Wiki",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1788,
-    "timeDay": 1895,
+    "timeDay": 1987,
     "timeWeek": 1823,
     "timeMonth": 1788,
     "timeYear": 1788,
     "dailyMinutesDown": {
-      "2024-03-13": 8
+      "2024-03-13": 0
     }
   },
   {
