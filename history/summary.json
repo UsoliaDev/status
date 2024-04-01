@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 120,
     "timeDay": 110,
-    "timeWeek": 131,
+    "timeWeek": 128,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
@@ -30,31 +30,10 @@
     "uptimeYear": "100.00%",
     "time": 116,
     "timeDay": 113,
-    "timeWeek": 133,
+    "timeWeek": 130,
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "游戏服务器 [ru-mow-1]",
-    "url": "acc-ru-mow01.infra.usolia.dev",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "game-server-ru-mow01",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 143,
-    "timeDay": 138,
-    "timeWeek": 156,
-    "timeMonth": 143,
-    "timeYear": 143,
-    "dailyMinutesDown": {
-      "2024-04-01": 0,
-      "2024-03-15": 16
-    }
   },
   {
     "name": "社区论坛",
@@ -67,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 864,
-    "timeDay": 756,
-    "timeWeek": 984,
-    "timeMonth": 864,
-    "timeYear": 864,
+    "time": 861,
+    "timeDay": 758,
+    "timeWeek": 956,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {}
   },
   {
@@ -85,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1756,
-    "timeDay": 1173,
-    "timeWeek": 1472,
-    "timeMonth": 1756,
-    "timeYear": 1756,
+    "time": 1740,
+    "timeDay": 1192,
+    "timeWeek": 1439,
+    "timeMonth": 1740,
+    "timeYear": 1740,
     "dailyMinutesDown": {}
   },
   {
@@ -104,8 +83,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 510,
-    "timeDay": 488,
-    "timeWeek": 590,
+    "timeDay": 496,
+    "timeWeek": 579,
     "timeMonth": 510,
     "timeYear": 510,
     "dailyMinutesDown": {}
