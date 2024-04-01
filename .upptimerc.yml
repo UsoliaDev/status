@@ -13,11 +13,6 @@ sites:
     url: acc-de-ber01.infra.usolia.dev
     port: 25565
     check: "tcp-ping"
-  - name: "游戏服务器 [ru-mow-1]"
-    slug: "game-server-ru-mow01"
-    url: acc-ru-mow01.infra.usolia.dev
-    port: 25565
-    check: "tcp-ping"
   - name: "社区论坛"
     slug: "forum"
     url: https://usolia.net
