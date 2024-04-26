@@ -25,9 +25,9 @@
     "url": "acc-de-ber01.infra.usolia.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-de-ber01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 132,
     "timeMonth": 118,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-26": 0
+    }
   },
   {
     "name": "社区论坛",
