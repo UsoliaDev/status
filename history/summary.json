@@ -43,27 +43,29 @@
     "url": "https://usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/usolia.net.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 727,
-    "timeWeek": 904,
-    "timeMonth": 851,
-    "timeYear": 855,
-    "dailyMinutesDown": {}
+    "time": 843,
+    "timeDay": 397,
+    "timeWeek": 800,
+    "timeMonth": 827,
+    "timeYear": 843,
+    "dailyMinutesDown": {
+      "2024-04-28": 0
+    }
   },
   {
     "name": "服务器 Wiki",
     "url": "https://wiki.usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.usolia.net.ico",
     "slug": "Wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +74,9 @@
     "timeWeek": 1376,
     "timeMonth": 1364,
     "timeYear": 1572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-28": 0
+    }
   },
   {
     "name": "卫星地图",
