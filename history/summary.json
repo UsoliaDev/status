@@ -25,9 +25,9 @@
     "url": "acc-de-ber01.infra.usolia.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-de-ber01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 119,
     "timeMonth": 119,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-29": 0
+    }
   },
   {
     "name": "社区论坛",
@@ -44,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/usolia.net.ico",
     "slug": "forum",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "56.83%",
-    "uptimeWeek": "93.83%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.25%",
+    "uptime": "98.67%",
+    "uptimeDay": "23.05%",
+    "uptimeWeek": "89.01%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "98.67%",
     "time": 831,
     "timeDay": 63,
     "timeWeek": 659,
     "timeMonth": 807,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-04-29": 63,
+      "2024-04-29": 549,
       "2024-04-28": 559
     }
   },
@@ -65,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.usolia.net.ico",
     "slug": "Wiki",
     "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "56.83%",
-    "uptimeWeek": "93.83%",
-    "uptimeMonth": "98.58%",
-    "uptimeYear": "99.25%",
+    "uptime": "98.67%",
+    "uptimeDay": "23.05%",
+    "uptimeWeek": "89.01%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "98.67%",
     "time": 1548,
     "timeDay": 72,
     "timeWeek": 1150,
     "timeMonth": 1323,
     "timeYear": 1548,
     "dailyMinutesDown": {
-      "2024-04-29": 63,
+      "2024-04-29": 549,
       "2024-04-28": 559
     }
   },
