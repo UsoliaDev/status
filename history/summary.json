@@ -25,9 +25,9 @@
     "url": "acc-de-ber01.infra.usolia.dev",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "game-server-de-ber01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 120,
     "timeYear": 117,
     "dailyMinutesDown": {
+      "2024-04-30": 0,
       "2024-04-29": 23
     }
   },
@@ -47,7 +48,7 @@
     "slug": "forum",
     "status": "up",
     "uptime": "96.76%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "10.11%",
     "uptimeWeek": "72.61%",
     "uptimeMonth": "93.70%",
     "uptimeYear": "96.76%",
@@ -68,18 +69,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.usolia.net.ico",
     "slug": "Wiki",
     "status": "down",
-    "uptime": "96.75%",
+    "uptime": "96.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.61%",
-    "uptimeMonth": "93.70%",
-    "uptimeYear": "96.75%",
+    "uptimeWeek": "71.17%",
+    "uptimeMonth": "93.37%",
+    "uptimeYear": "96.59%",
     "time": 1525,
     "timeDay": 97,
     "timeWeek": 991,
     "timeMonth": 1281,
     "timeYear": 1525,
     "dailyMinutesDown": {
-      "2024-04-30": 762,
+      "2024-04-30": 908,
       "2024-04-29": 1440,
       "2024-04-28": 559
     }
