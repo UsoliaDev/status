@@ -10,7 +10,7 @@ sites:
     check: "tcp-ping"
   - name: "游戏服务器 [de-centre-1]"
     slug: "game-server-de-ber01"
-    url: acc-de-ber01.infra.usolia.dev
+    url: acc-de-ber01.infra.usolia.net
     port: 25565
     check: "tcp-ping"
   - name: "社区论坛"
