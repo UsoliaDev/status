@@ -1,7 +1,7 @@
 url: https://usolia.net
-status: up
-code: 200
-responseTime: 1130
-lastUpdated: 2024-06-08T23:14:29.354Z
+status: down
+code: 502
+responseTime: 516
+lastUpdated: 2024-06-09T09:51:41.274Z
 startTime: 2024-03-02T10:08:31.405Z
 generator: Upptime <https://github.com/upptime/upptime>
