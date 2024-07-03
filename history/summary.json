@@ -6,9 +6,9 @@
     "slug": "game-server-de-fsn02",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 119,
     "timeDay": 176,
@@ -16,7 +16,7 @@
     "timeMonth": 126,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-07-03": 1,
+      "2024-07-03": 10,
       "2024-06-26": 30,
       "2024-04-17": 42,
       "2024-04-13": 97
@@ -103,19 +103,19 @@
     "url": "https://satellite.usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/satellite.usolia.net.ico",
     "slug": "satellite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 790,
-    "timeWeek": 655,
-    "timeMonth": 576,
-    "timeYear": 529,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 531,
+    "timeDay": 775,
+    "timeWeek": 668,
+    "timeMonth": 581,
+    "timeYear": 531,
     "dailyMinutesDown": {
-      "2024-07-03": 0
+      "2024-07-03": 9
     }
   }
 ]
