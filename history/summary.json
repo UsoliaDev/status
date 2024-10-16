@@ -42,7 +42,7 @@
     "timeMonth": 0,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-10-16": 528,
+      "2024-10-16": 550,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -132,7 +132,7 @@
     "url": "https://usolia.net",
     "icon": "https://icons.duckduckgo.com/ip3/usolia.net.ico",
     "slug": "forum",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
     "uptimeDay": "96.17%",
     "uptimeWeek": "98.53%",
